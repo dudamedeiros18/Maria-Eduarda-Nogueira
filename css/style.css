@@ -76,3 +76,11 @@ nav{
 }
 
 
+.cabecalho{
+    display: flex;
+    justify-content: space-between;
+    background-color:white;
+}
+.menu > img{
+    height: 60px;
+
